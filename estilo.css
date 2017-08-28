@@ -1,0 +1,30 @@
+html,body{
+  height:100%;
+  width:100%;
+  font-size: 100%;
+}
+h1{
+  font-size:4em;
+}
+
+body{
+  background:#0;
+  color:rgb(0, 0, 0);
+  padding:2%;
+  font-family: 'Merriweather', serif;
+  font-size:1em;
+}
+
+div{
+  width: 500px;
+  max-width:80%;
+  padding:1em;
+  background:silver;
+  border:1px solid #ccc;
+  background:#fff;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+}

@@ -8,7 +8,8 @@ h1{
 }
 
 body{
-  background:algo.png;
+  background-image:
+    url("algo.png");
   color:rgb(0, 0, 0);
   padding:2%;
   font-family: 'Merriweather', serif;
